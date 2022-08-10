@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:http/http.dart';
-import 'package:nft_app/contractPage.dart';
-import 'package:nft_app/walletPage.dart';
-import 'package:web3dart/web3dart.dart';
+import 'package:get/get.dart';
+import 'package:nft_app/view/contract_page.dart';
+import 'package:nft_app/view/test_page.dart';
+import 'package:nft_app/view/wallet_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +14,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -36,12 +35,11 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _selectedIndex = 0;
-  static const TextStyle optionStyle =
-      TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
 
-  static const List<Widget> _widgetOption = <Widget>[
+  static List<Widget> _widgetOption = <Widget>[
     ContractPage(),
-    WalletPage()
+    WalletPage(),
+    TestPage()
   ];
 
   void _onItemTapped(int index) {
@@ -62,6 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
           items: <BottomNavigationBarItem>[
             BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
             BottomNavigationBarItem(icon: Icon(Icons.wallet), label: 'wallet'),
+            BottomNavigationBarItem(icon: Icon(Icons.search), label: 'test'),
           ],
           currentIndex: _selectedIndex,
           selectedItemColor: Colors.blueAccent,
