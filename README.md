@@ -8,12 +8,11 @@
 
 ---
 
-
 ## 💫 Contributors
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/JMsuper"><img src="https://avatars.githubusercontent.com/u/81851584?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Designer<br/><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=JMsuper" title="Documentation">🔥</a></td>
+    <td align="center"><a href="https://github.com/JMsuper"><img src="https://avatars.githubusercontent.com/u/80041449?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Designer<br/><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=JMsuper" title="Documentation">🔥</a></td>
     <td align="center"><a href="https://github.com/rineeee"><img src="https://avatars.githubusercontent.com/u/62981406?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaRin</b></sub></a><br />Developer<br /><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=rineeee" title="Documentation">🔥</a></td>
 </table>
 
@@ -22,11 +21,11 @@
 
 
 ## 📚 Tech Stack
-![](https://img.shields.io/badge/django-3.2.2-green)&nbsp;&nbsp;
-![](https://img.shields.io/badge/HTML-5.3-orange)&nbsp;&nbsp;
-![](https://img.shields.io/badge/CSS-blue)&nbsp;&nbsp;
-![](https://img.shields.io/badge/JS-ES6-yellow)&nbsp;&nbsp;
-![](https://img.shields.io/badge/MySQL-8.0.23-blue)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Flutter)&nbsp;&nbsp;
+![](https://img.shields.io/badge/METAMASK)&nbsp;&nbsp;
+![](https://img.shields.io/badge/IPFS)&nbsp;&nbsp;
+![](https://img.shields.io/badge/INFURA)&nbsp;&nbsp;
+![](https://img.shields.io/badge/remix)&nbsp;&nbsp;
 
 
 
