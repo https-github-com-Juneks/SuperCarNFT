@@ -21,7 +21,7 @@
 
 
 ## 📚 Tech Stack
-![](<img src="https://img.shields.io/badge/Flutter?style=for-the-badge&logo=#02569B&logoColor=blue">)&nbsp;&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/Flutter-F7DF1E?style=flat&logo=J#02569B&logoColor=black"/></a>
 ![](https://img.shields.io/badge/METAMASK)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/IPFS)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/INFURA)&nbsp;&nbsp;
