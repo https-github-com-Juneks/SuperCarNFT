@@ -1,6 +1,6 @@
 # 🌟 Supick
-* Everyone can suggest their opinion super freely!!!
-* Each decision steps will be preserved until the end of the development.
+* Start investing with supercar crowdfunding!
+* Get a supercar rental safely with NFT!
 ---
 
 ## 🔮 View
@@ -10,11 +10,11 @@
 
 
 ## 💫 Contributors
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/minji9611"><img src="https://avatars.githubusercontent.com/u/81851584?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Designer<br/><a href="https://github.com/LikeLion-CAU-9th/MOIZA/commits?author=JMsuper" title="Documentation">🔥</a></td>
-    <td align="center"><a href="https://github.com/youngkwon02"><img src="https://avatars.githubusercontent.com/u/39653584?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaRin</b></sub></a><br />Developer<br /><a href="https://github.com/LikeLion-CAU-9th/MOIZA/commits?author=rineeee" title="Documentation">🔥</a></td>
+    <td align="center"><a href="https://github.com/minji9611"><img src="https://avatars.githubusercontent.com/u/81851584?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Designer<br/><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=JMsuper" title="Documentation">🔥</a></td>
+    <td align="center"><a href="https://github.com/youngkwon02"><img src="https://avatars.githubusercontent.com/u/39653584?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaRin</b></sub></a><br />Developer<br /><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=rineeee" title="Documentation">🔥</a></td>
 </table>
 
 
