@@ -1,0 +1,134 @@
+{
+	"compiler": {
+		"version": "0.5.4+commit.9549d8ff"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "returnAllProjects",
+				"outputs": [
+					{
+						"name": "",
+						"type": "address[]"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "title",
+						"type": "string"
+					},
+					{
+						"name": "description",
+						"type": "string"
+					},
+					{
+						"name": "durationInDays",
+						"type": "uint256"
+					},
+					{
+						"name": "amountToRaise",
+						"type": "uint256"
+					}
+				],
+				"name": "startProject",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"name": "contractAddress",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"name": "projectStarter",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"name": "projectTitle",
+						"type": "string"
+					},
+					{
+						"indexed": false,
+						"name": "projectDesc",
+						"type": "string"
+					},
+					{
+						"indexed": false,
+						"name": "deadline",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"name": "goalAmount",
+						"type": "uint256"
+					}
+				],
+				"name": "ProjectStarted",
+				"type": "event"
+			}
+		],
+		"devdoc": {
+			"methods": {
+				"returnAllProjects()": {
+					"details": "Function to get all projects' contract addresses.\r",
+					"return": "A list of all projects' contract addreses\r"
+				},
+				"startProject(string,string,uint256,uint256)": {
+					"details": "Function to start a new project.\r",
+					"params": {
+						"amountToRaise": "Project goal in wei\r",
+						"description": "Brief description about the project\r",
+						"durationInDays": "Project deadline in days\r",
+						"title": "Title of the project to be created\r"
+					}
+				}
+			}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/crowdfunding.sol": "Crowdfunding"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/crowdfunding.sol": {
+			"keccak256": "0xe965cab2dbfffbce2fac22cae8b071f096a58861ef0a14c92a6473daf8c017e6",
+			"urls": [
+				"bzzr://2961a62bde0d9c9cef68c52c18ec244b050ca10c86c35a592d6c031654dc6f77"
+			]
+		},
+		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v2.5.0/contracts/math/SafeMath.sol": {
+			"keccak256": "0x640b6dee7a4b830bdfd52b5031a07fc2b12209f5b2e29e5d364a7d37f69d8076",
+			"urls": [
+				"bzzr://292843005e754e752644f767477ec5ad7a1ffc91ddb18c38b8079c62f3993cad"
+			]
+		}
+	},
+	"version": 1
+}
