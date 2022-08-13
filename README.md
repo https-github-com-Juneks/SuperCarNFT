@@ -56,7 +56,4 @@ pip install mysqlclient
 : Just run MySQL-client
 
 (If you use Unix Family OS such as Linux or Mac)
-```sh
-sudo mysql -u root -p
-```
 
