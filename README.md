@@ -49,9 +49,10 @@
 ---
 
 ## 🪄 Installation
-#### - Requirement (You need to install MySQL and related modules)
+
 ```sh
-pip install pymysql
+flutter pub get
+flutter run
 ```
 
 
