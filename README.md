@@ -9,7 +9,7 @@
 ---
 
 ## 💫 Contributors
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <table>
   <tr>
     <td align="center"><a href="https://github.com/JMsuper"><img src="https://avatars.githubusercontent.com/u/80041449?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Developer<br/><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=JMsuper" title="Documentation">🔥</a></td>
