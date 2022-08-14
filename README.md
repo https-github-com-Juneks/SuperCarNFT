@@ -36,9 +36,9 @@
 
 ## 🌈 Communication
 
-|<img width= 50 src="https://i.imgur.com/Ap8neHw.png">| <img width= 50 src="https://i.imgur.com/jrN40gS.jpg">    |
-| :---------------------------------------------------: | :---------------------------------------------------: |
-|                        GitHub                     |                        Notion                         |
+|<img width= 50 src="https://i.imgur.com/Ap8neHw.png">| <img width= 50 src="https://i.imgur.com/jrN40gS.jpg">    |<img width= 50 src="[https://i.imgur.com/jrN40gS.jpg](http://www.w3.org/2000/svg)">    |
+| :---------------------------------------------------: | :---------------------------------------------------: |:---------------------------------------------------: |
+|                        GitHub                     |                        Notion                         |                        google Drive                   |
 
 
 ---
