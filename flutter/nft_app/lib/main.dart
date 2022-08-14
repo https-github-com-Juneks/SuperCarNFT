@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nft_app/view/contract_page.dart';
-import 'package:nft_app/view/test_page.dart';
-import 'package:nft_app/view/wallet_page.dart';
+import 'package:nft_app/controller/nft_controller.dart';
+import 'package:nft_app/view/user_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -34,39 +33,14 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _selectedIndex = 0;
-
-  static List<Widget> _widgetOption = <Widget>[
-    ContractPage(),
-    WalletPage(),
-    TestPage()
-  ];
-
-  void _onItemTapped(int index) {
-    setState(() {
-      _selectedIndex = index;
-    });
+  @override
+  void initState() {
+    Get.put(NftController());
+    super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-        appBar: AppBar(
-          title: const Text("NFT Dapp"),
-        ),
-        body: Center(child: _widgetOption.elementAt(_selectedIndex)),
-        bottomNavigationBar: BottomNavigationBar(
-          items: <BottomNavigationBarItem>[
-            BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
-            BottomNavigationBarItem(icon: Icon(Icons.wallet), label: 'wallet'),
-            BottomNavigationBarItem(icon: Icon(Icons.search), label: 'test'),
-          ],
-          currentIndex: _selectedIndex,
-          selectedItemColor: Colors.blueAccent,
-          onTap: _onItemTapped,
-        ),
-      ),
-    );
+    return UserPage();
   }
 }
