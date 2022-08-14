@@ -15,6 +15,8 @@
     <td align="center"><a href="https://github.com/JMsuper"><img src="https://avatars.githubusercontent.com/u/80041449?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim JeongMin</b></sub></a><br />Developer<br/><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=JMsuper" title="Documentation">🔥</a></td>
     <td align="center"><a href="https://github.com/rineeee"><img src="https://avatars.githubusercontent.com/u/62981406?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaRin</b></sub></a><br />Developer<br /><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=rineeee" title="Documentation">🔥</a></td>
     <td align="center"><a href="https://github.com/hen-ni"><img src="https://avatars.githubusercontent.com/u/90090783?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaeIn</b></sub></a><br />Developer<br /><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=hen-ni" title="Documentation">🔥</a></td>
+     <td align="center"><a href="https://github.com/do-zeroo"><img src="https://avatars.githubusercontent.com/u/111207503?v=4?s=200" width="200px;" alt=""/><br /><sub><b>Kim HaeIn</b></sub></a><br />Developer<br /><a href="https://github.com/https-github-com-Juneks/SuperCarNFT/commits?author=do-zeroo" title="Documentation">🔥</a></td>
+     
 </table>
 
 
