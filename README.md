@@ -4,7 +4,7 @@
 ---
 
 ## 🔮 View
-<img width="250" alt="" src="">
+<img width="610" alt="UI" src="https://user-images.githubusercontent.com/62981406/184525744-68f21276-b7de-4326-bb83-110b91564b4a.png">
 
 ---
 
