@@ -31,8 +31,13 @@
 <a href="#"><img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=IPFS&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Infura-FF4D00?style=flat&logo=infura&logoColor=black"/></a>
 
+---
+
+## 📄 Architecture 
+<img width="610" alt="Architecture" src="https://user-images.githubusercontent.com/80041449/190315691-868825d1-d8cf-4619-a049-4a62f40eae06.JPG">
 
 
+---
 
 ## 🌈 Communication
 
